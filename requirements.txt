@@ -1,0 +1,13 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+
+pandas==2.3.3
+torch==2.3.0
+torchdata==0.8.0
+torchtext==0.18.0
+spacy==3.8.14
+altair==6.0.0
+jupytext==1.19.3
+flake8==7.3.0
+black==26.5.1
+GPUtil==1.4.0
+wandb==0.27.2
