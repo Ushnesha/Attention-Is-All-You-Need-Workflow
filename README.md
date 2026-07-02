@@ -60,6 +60,7 @@ A step-by-step educational workflow implementing the core components of the "Att
 ## 📈 Recent Activity
 
 <!-- START_GIT_HISTORY -->
+- [`ca476b8`](https://github.com/Ushnesha/Attention-Is-All-You-Need-Workflow/commit/ca476b8) - ignore update_readme.py and add standard gitignore
 - [`1b88b90`](https://github.com/Ushnesha/Attention-Is-All-You-Need-Workflow/commit/1b88b90) - added README.md and update_readme.py with auto-update hook
 - [`b2315f2`](https://github.com/Ushnesha/Attention-Is-All-You-Need-Workflow/commit/b2315f2) - added simple qkv implementation
 <!-- END_GIT_HISTORY -->
