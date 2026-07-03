@@ -67,18 +67,6 @@ A step-by-step educational workflow implementing the core components of the "Att
 
 ---
 
-## 📈 Recent Activity
-
-<!-- START_GIT_HISTORY -->
-- [`779fe28`](https://github.com/Ushnesha/Attention-Is-All-You-Need-Workflow/commit/779fe28) - readme updated
-- [`759b962`](https://github.com/Ushnesha/Attention-Is-All-You-Need-Workflow/commit/759b962) - updated readme
-- [`ca476b8`](https://github.com/Ushnesha/Attention-Is-All-You-Need-Workflow/commit/ca476b8) - ignore update_readme.py and add standard gitignore
-- [`1b88b90`](https://github.com/Ushnesha/Attention-Is-All-You-Need-Workflow/commit/1b88b90) - added README.md and update_readme.py with auto-update hook
-- [`b2315f2`](https://github.com/Ushnesha/Attention-Is-All-You-Need-Workflow/commit/b2315f2) - added simple qkv implementation
-<!-- END_GIT_HISTORY -->
-
----
-
 ## 🔄 Automatic Documentation Sync
 
 This repository uses an automatic documentation sync workflow. The `README.md` is updated dynamically whenever code changes are committed.
