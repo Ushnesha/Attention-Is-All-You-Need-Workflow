@@ -7,7 +7,17 @@ A step-by-step educational workflow implementing the core components of the "Att
 ## 📁 Code Components Index
 
 <!-- START_COMPONENT_INDEX -->
-### 📄 [QKV_attention_implementation.ipynb](QKV_attention_implementation.ipynb)
+### 📄 [multi_head_attention_implementation.ipynb](multi_head_attention_implementation.ipynb)
+> Jupyter Notebook implementation.
+
+**Classes:**
+- `class MultiHeadAttention`: *No description provided.*
+  - `def scaled_dot_product_attention(Q, K, V, mask)`: Args:
+  - `def forward(query, key, value, mask)`: Args:
+
+---
+
+### 📄 [single_head_attention_implementation.ipynb](single_head_attention_implementation.ipynb)
 > Interactive notebook covering: Implementing Scaled Dot-Product Attention: $softmax(\frac{QK^T}{\sqrt d_k})V$
 
 **Functions:**
@@ -60,6 +70,7 @@ A step-by-step educational workflow implementing the core components of the "Att
 ## 📈 Recent Activity
 
 <!-- START_GIT_HISTORY -->
+- [`779fe28`](https://github.com/Ushnesha/Attention-Is-All-You-Need-Workflow/commit/779fe28) - readme updated
 - [`759b962`](https://github.com/Ushnesha/Attention-Is-All-You-Need-Workflow/commit/759b962) - updated readme
 - [`ca476b8`](https://github.com/Ushnesha/Attention-Is-All-You-Need-Workflow/commit/ca476b8) - ignore update_readme.py and add standard gitignore
 - [`1b88b90`](https://github.com/Ushnesha/Attention-Is-All-You-Need-Workflow/commit/1b88b90) - added README.md and update_readme.py with auto-update hook
