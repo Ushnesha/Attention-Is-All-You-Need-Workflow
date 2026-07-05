@@ -22,6 +22,14 @@ A step-by-step educational workflow implementing the core components of the "Att
 
 **Functions:**
 - `def scaled_dot_product_attention(query, key, value, mask)`: Computes Scaled Dot-Product Attention.
+
+---
+
+### 📄 [sinusoidal_positional_embedding_implementation.ipynb](sinusoidal_positional_embedding_implementation.ipynb)
+> Interactive notebook covering: Implementing the Positional Encoding Function, Visualization
+
+**Functions:**
+- `def get_positional_encoding(max_seq_len, d_model)`: *No description provided.*
 <!-- END_COMPONENT_INDEX -->
 
 ---
