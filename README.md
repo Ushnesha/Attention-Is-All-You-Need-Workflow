@@ -18,7 +18,11 @@ A step-by-step educational workflow implementing the core components of the "Att
 ---
 
 ### 📄 [single_head_attention_implementation.ipynb](single_head_attention_implementation.ipynb)
-> Interactive notebook covering: Implementing Scaled Dot-Product Attention: $softmax(\frac{QK^T}{\sqrt d_k})V$
+> Interactive notebook covering: Implementing Scaled Dot-Product Attention: $softmax(\frac{QK^T}{\sqrt d_k})V$, Visualizations
+
+<p align="center">
+  <img src="assets/single_head_attention_implementation_vis_0.png" width="80%" alt="Visualization of single_head_attention_implementation.ipynb" />
+</p>
 
 **Functions:**
 - `def scaled_dot_product_attention(query, key, value, mask)`: Computes Scaled Dot-Product Attention.
@@ -27,6 +31,14 @@ A step-by-step educational workflow implementing the core components of the "Att
 
 ### 📄 [sinusoidal_positional_embedding_implementation.ipynb](sinusoidal_positional_embedding_implementation.ipynb)
 > Interactive notebook covering: Implementing the Positional Encoding Function, Visualization
+
+<p align="center">
+  <img src="assets/sinusoidal_positional_embedding_implementation_vis_0.png" width="80%" alt="Visualization of sinusoidal_positional_embedding_implementation.ipynb" />
+</p>
+
+<p align="center">
+  <img src="assets/sinusoidal_positional_embedding_implementation_vis_1.png" width="80%" alt="Visualization of sinusoidal_positional_embedding_implementation.ipynb" />
+</p>
 
 **Functions:**
 - `def get_positional_encoding(max_seq_len, d_model)`: *No description provided.*
